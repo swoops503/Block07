@@ -1,0 +1,15 @@
+body {
+    background-color:#020331
+}
+
+h1 {
+    background-color: #09467d;
+    color: white;
+    text-align: center;
+    font-family: Stencil Std, fantasy;
+}
+
+#vault {
+    display: grid;
+    justify-content: center;
+}
